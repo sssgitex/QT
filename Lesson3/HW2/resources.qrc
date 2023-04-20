@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>mailru-icon-256.png</file>
+    </qresource>
+</RCC>
