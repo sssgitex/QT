@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icon-256.png</file>
+        <file>icon-help-256.png</file>
+    </qresource>
+    <qresource prefix="/md">
+        <file>about.MD</file>
+        <file>about_en.MD</file>
+    </qresource>
+    <qresource prefix="/tr">
+        <file>QtLanguage_en.qm</file>
+        <file>QtLanguage_ru.qm</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>stylesheets/Clientor.qss</file>
+        <file>stylesheets/Dtor.qss</file>
+        <file>stylesheets/Material-blue.qss</file>
+        <file>stylesheets/Material-dark.qss</file>
+        <file>stylesheets/NeonButtons.qss</file>
+        <file>stylesheets/Ubuntu.qss</file>
+    </qresource>
+</RCC>
