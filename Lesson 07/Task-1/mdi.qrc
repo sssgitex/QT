@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/MDI_256.png</file>
+        <file>stylesheets/Clientor.qss</file>
+        <file>stylesheets/Dtor.qss</file>
+        <file>stylesheets/Material-blue.qss</file>
+        <file>stylesheets/Material-dark.qss</file>
+        <file>stylesheets/NeonButtons.qss</file>
+        <file>stylesheets/Ubuntu.qss</file>
+    </qresource>
+    <qresource prefix="/i18n">
+        <file>MDIeditor_en_001.qm</file>
+        <file>MDIeditor_ru_RU.qm</file>
+    </qresource>
+</RCC>
