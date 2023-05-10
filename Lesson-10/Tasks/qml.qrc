@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MainHeader.qml</file>
+        <file>qml/TaskItem.qml</file>
+        <file>qml/HomeFooter.qml</file>
+        <file>qml/checklist.png</file>
+        <file>qml/HomePage.qml</file>
+        <file>qml/MessagePage.qml</file>
+        <file>qml/MessageFooter.qml</file>
+        <file>qml/ClosePage.qml</file>
+        <file>qml/CloseFooter.qml</file>
+        <file>qml/EditPage.qml</file>
+        <file>qml/EditFooter.qml</file>
+    </qresource>
+</RCC>
