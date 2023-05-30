@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/background.png</file>
+        <file>Page1.qml</file>
+        <file>Header.qml</file>
+        <file>img/icon.png</file>
+        <file>Page2.qml</file>
+        <file>img/back1.png</file>
+        <file>img/back2.png</file>
+        <file>img/back3.png</file>
+        <file>Education.qml</file>
+    </qresource>
+</RCC>
